@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leoric</h1>
 <h3 align="center">A C++/Go developer from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zelongzhao&label=Profile%20views&color=0e75b6&style=flat" alt="zelongzhao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zelongzhao" alt="zelongzhao" /></a> </p>
-
-
-- 🌱 I’m currently learning **Gin**
+- 🌱 I’m currently learning **Gin** **Verilog**
 
 - 📫 How to reach me **leoric@vfeda.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
