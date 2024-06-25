@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leoric</h1>
-<h3 align="center">A C++/Go developer from China</h3>
+<h3 align="center">A C++ developer from China</h3>
 
-- 🌱 I’m currently learning **Gin** **Verilog**
+- 🌱 I’m currently learning **C++** **Verilog**
 
 - 📫 How to reach me **leoric@vfeda.com**
 
